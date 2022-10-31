@@ -4,6 +4,7 @@ Datasets of the paper: Detecting "0-Day" Vulnerability: An Empirical Study of Se
 
 If you find this dataset useful in your research, please consider citing:
 
+```
 @inproceedings{wang2019detecting,
     title={Detecting" 0-Day" Vulnerability: An Empirical Study of Secret Security Patch in OSS},
     author={Wang, Xinda and Sun, Kun and Batcheller, Archer and Jajodia, Sushil},
@@ -12,3 +13,4 @@ If you find this dataset useful in your research, please consider citing:
     year={2019},
     organization={IEEE}
 }
+```
